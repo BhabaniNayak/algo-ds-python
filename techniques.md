@@ -37,3 +37,6 @@ These patterns can be used for string or array questions. They can also be strea
     - pointer_two -= 1
 - Stopping Condition (base condition)
     - while pointer_one < pointer_two
+
+**NOTE** 
+- Depending on the problem the initialization, increment, stopping criteria will change.
